@@ -1,2 +1,2 @@
 # Mutter
-Minimalist Zero-Trust voice and text realy.
+Minimalist Zero-Trust Voice and Text realy built on Rust.
