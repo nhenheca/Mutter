@@ -8,7 +8,7 @@ Minimalist Zero-Trust Voice and Text chat/talk server/client built on Rust.
 - /list «channel»          -> List chat from text channel **OR** List current users is voice channel.
 - /dc «channel»            -> Disconnect from **«channel»**.
 - /dc all                  -> Disconnect from all channels.
-- /sound «user» «value»    -> Changes user Volume to **«value»**.
+- /vol «user» «value»    -> Changes **«user»** Volume to **«value»**.
 - /print «channel» «value» -> Writes to text **«channel»**.
 
 ### ADMIN:
