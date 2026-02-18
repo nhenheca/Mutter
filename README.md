@@ -12,9 +12,9 @@ Minimalist Zero-Trust Voice and Text chat/talk server/client built on Rust.
 - /print «channel» «value» -> Writes to text **«channel»**.
 
 ### ADMIN:
-- /create voice «channel» -» Creates a voice channel
-- /create text «channel» -» Creates a text channel
-- /delete «channel» -» Delets **«channel»**.
-- /add «channel» «user» -» Gives user acess to **«channel»**.
-- /remove «channel» «user» -» Removes user acess to **«channel»**.
-- /dc «channel» «user» -» Disconnects **«user»** from **«channel»**.
+- /create voice «channel» -> Creates a voice channel
+- /create text «channel» -> Creates a text channel
+- /delete «channel» -> Delets **«channel»**.
+- /add «channel» «user» -> Gives user acess to **«channel»**.
+- /remove «channel» «user» -> Removes user acess to **«channel»**.
+- /dc «channel» «user» -> Disconnects **«user»** from **«channel»**.
